@@ -1,7 +1,8 @@
 # INTERVIEW-TEST_API
-# Feature: Go to the Google search page and search for ducks
-#  Scenario:
-# Given that I have gone to the Google page
-# When I add ducks to the search box
-# And click the Search Button
-# Then ducks should be shown in the results
+# Test Case : Validate status code and status line
+# TC ID : 01
+# Description : UserID  API - Validate status code and Status line
+# Endpoint: https://jsonplaceholder.typicode.com/posts
+# HTTP Method Type: GET
+# Status Code : 200
+# Status Line: HTTP 1.1
